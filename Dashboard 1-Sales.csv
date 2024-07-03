@@ -1,0 +1,522 @@
+created_at,order_id,item_name,item_cat,quantity,item_price,in_or_out
+"2024-02-12 07:04:19",ORD001,Espresso,"Hot Drinks",1,2.15,out
+"2024-02-12 07:09:38",ORD002,"Hot Chocolate","Hot Drinks",1,4.6,in
+"2024-02-12 07:14:29",ORD003,Espresso,"Hot Drinks",1,2.15,out
+"2024-02-12 07:18:39",ORD004,"Iced Tea","Cold Drinks",1,3.25,out
+"2024-02-12 07:23:44",ORD005,"Sandwich Salami&Mozzarella",Snacks,1,5.5,out
+"2024-02-12 07:28:20",ORD006,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-12 07:28:20",ORD006,"Cold Coffee","Cold Drinks",1,3.75,in
+"2024-02-12 07:33:58",ORD007,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-12 07:33:58",ORD007,"Iced Tea","Cold Drinks",1,3.55,
+"2024-02-12 07:39:02",ORD008,"Caramel Macchiato","Hot Drinks",1,4.2,in
+"2024-02-12 07:39:01",ORD008,"Cold Mocha","Cold Drinks",1,4.6,
+"2024-02-12 07:44:02",ORD009,"Sandwich Ham&Cheese",Snacks,1,5.6,out
+"2024-02-12 07:44:03",ORD009,"White Mocha","Hot Drinks",1,4.5,
+"2024-02-12 07:49:04",ORD010,"Sandwich Salami&Mozzarella",Snacks,1,5.5,out
+"2024-02-12 07:49:05",ORD010,"Hot Chocolate","Hot Drinks",1,4.6,
+"2024-02-12 07:53:06",ORD011,Latte,"Hot Drinks",1,3.45,out
+"2024-02-12 07:58:07",ORD012,"Caramel Macchiato","Hot Drinks",1,4.6,out
+"2024-02-12 08:03:08",ORD013,Mocha,"Hot Drinks",1,4,in
+"2024-02-12 08:03:09",ORD013,Lemonade,"Cold Drinks",1,3.35,
+"2024-02-12 08:08:10",ORD014,"White Mocha","Hot Drinks",1,4.7,in
+"2024-02-12 08:08:11",ORD014,Lemonade,"Cold Drinks",1,3.75,
+"2024-02-12 08:12:12",ORD015,Latte,"Hot Drinks",1,3.75,out
+"2024-02-12 08:17:21",ORD016,Cappuccino,"Hot Drinks",1,3.75,out
+"2024-02-12 08:22:34",ORD017,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-12 08:26:07",ORD018,"Hot Chocolate","Hot Drinks",1,4.6,out
+"2024-02-12 08:31:45",ORD019,"White Mocha","Hot Drinks",1,4.5,in
+"2024-02-12 08:36:59",ORD020,"Cold Mocha","Cold Drinks",1,4,out
+"2024-02-12 08:36:59",ORD020,"Iced Tea","Cold Drinks",1,3.55,
+"2024-02-12 08:41:38",ORD021,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-12 08:45:02",ORD022,"Caramel Macchiato","Hot Drinks",1,4.2,in
+"2024-02-12 08:45:24",ORD022,"Hot Chocolate","Hot Drinks",1,4.6,
+"2024-02-12 08:50:11",ORD023,Espresso,"Hot Drinks",1,2.15,out
+"2024-02-12 08:55:53",ORD024,"Cold Coffee","Cold Drinks",1,3.75,out
+"2024-02-12 09:00:46",ORD025,"Caramel Macchiato","Hot Drinks",1,4.2,out
+"2024-02-12 09:04:25",ORD026,"Iced Tea","Cold Drinks",1,3.25,in
+"2024-02-12 09:09:47",ORD027,Mocha,"Hot Drinks",1,4,out
+"2024-02-12 09:14:32",ORD028,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-12 09:14:32",ORD028,"Cold Coffee","Cold Drinks",1,3.75,
+"2024-02-12 09:19:11",ORD029,"Flat White","Hot Drinks",1,3.15,in
+"2024-02-12 09:19:11",ORD029,"Iced Tea","Cold Drinks",1,3.55,
+"2024-02-12 09:19:11",ORD029,"White Mocha","Hot Drinks",1,4.7,
+"2024-02-12 09:35:06",ORD030,Latte,"Hot Drinks",1,3.75,out
+"2024-02-12 09:48:39",ORD031,Lemonade,"Cold Drinks",1,3.35,out
+"2024-02-12 10:02:18",ORD032,"Caramel Macchiato","Hot Drinks",1,4.6,out
+"2024-02-12 10:17:45",ORD033,Mocha,"Hot Drinks",1,4.6,out
+"2024-02-12 10:33:22",ORD034,"Cold Mocha","Cold Drinks",1,4,in
+"2024-02-12 10:50:09",ORD035,Mocha,"Hot Drinks",1,4,out
+"2024-02-12 11:08:56",ORD036,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-12 11:27:34",ORD037,"Flat White","Hot Drinks",1,3.15,in
+"2024-02-12 11:27:34",ORD037,Cappuccino,"Hot Drinks",1,3.75,
+"2024-02-12 12:08:22",ORD038,"Cold Coffee","Cold Drinks",1,3.45,in
+"2024-02-12 12:08:22",ORD038,Latte,"Hot Drinks",1,3.45,
+"2024-02-12 12:08:22",ORD038,"Cold Coffee","Cold Drinks",1,3.75,
+"2024-02-12 12:10:12",ORD039,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-12 12:10:12",ORD039,"Iced Tea","Cold Drinks",1,3.55,
+"2024-02-12 12:11:03",ORD040,"Caramel Macchiato","Hot Drinks",1,4.2,out
+"2024-02-12 12:11:03",ORD040,"Cold Mocha","Cold Drinks",1,4.6,
+"2024-02-12 12:16:09",ORD041,"Sandwich Ham&Cheese",Snacks,1,5.6,in
+"2024-02-12 12:16:09",ORD041,"White Mocha","Hot Drinks",1,4.5,
+"2024-02-12 12:16:09",ORD041,"White Mocha","Hot Drinks",1,4.5,
+"2024-02-12 12:18:14",ORD042,Latte,"Hot Drinks",1,3.75,out
+"2024-02-12 12:21:27",ORD043,Lemonade,"Cold Drinks",1,3.75,out
+"2024-02-12 12:23:39",ORD044,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-12 12:26:05",ORD045,"Cold Mocha","Cold Drinks",1,4,in
+"2024-02-12 12:29:17",ORD046,Mocha,"Hot Drinks",1,4,out
+"2024-02-12 12:32:29",ORD047,Mocha,"Hot Drinks",1,4,out
+"2024-02-12 12:35:33",ORD048,"White Mocha","Hot Drinks",1,4.7,out
+"2024-02-12 12:38:46",ORD049,"Flat White","Hot Drinks",1,3.15,in
+"2024-02-12 12:41:58",ORD050,"Iced Tea","Cold Drinks",1,3.25,out
+"2024-02-12 12:44:11",ORD051,"Iced Tea","Cold Drinks",1,3.55,in
+"2024-02-12 12:47:24",ORD052,Lemonade,"Cold Drinks",1,3.35,out
+"2024-02-12 12:50:37",ORD053,"Hot Chocolate","Hot Drinks",1,4.6,in
+"2024-02-12 12:53:49",ORD054,"Cold Coffee","Cold Drinks",1,3.75,out
+"2024-02-12 12:56:15",ORD055,"Sandwich Ham&Cheese",Snacks,1,5.6,out
+"2024-02-12 12:59:28",ORD056,"Iced Tea","Cold Drinks",1,3.55,out
+"2024-02-12 13:02:42",ORD057,"Hot Chocolate","Hot Drinks",1,4.2,in
+"2024-02-12 13:05:54",ORD058,Cappuccino,"Hot Drinks",1,3.45,out
+"2024-02-12 13:08:06",ORD059,Latte,"Hot Drinks",1,3.45,in
+"2024-02-12 13:11:19",ORD060,Espresso,"Hot Drinks",1,2.15,out
+"2024-02-12 13:13:31",ORD061,Cappuccino,"Hot Drinks",1,3.75,in
+"2024-02-12 13:13:43",ORD061,"Caramel Macchiato","Hot Drinks",1,4.6,
+"2024-02-12 13:15:56",ORD062,"Iced Tea","Cold Drinks",1,3.25,out
+"2024-02-12 13:17:08",ORD063,Lemonade,"Cold Drinks",1,3.35,out
+"2024-02-12 13:17:08",ORD063,"Flat White","Hot Drinks",1,3.15,
+"2024-02-12 13:17:08",ORD063,"Hot Chocolate","Hot Drinks",1,4.6,
+"2024-02-12 13:20:47",ORD064,Latte,"Hot Drinks",1,3.75,in
+"2024-02-12 13:20:47",ORD064,Latte,"Hot Drinks",1,3.45,
+"2024-02-12 13:22:12",ORD065,"White Mocha","Hot Drinks",1,4.7,out
+"2024-02-12 13:22:12",ORD065,Mocha,"Hot Drinks",1,4,
+"2024-02-12 13:25:38",ORD066,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-12 13:25:02",ORD066,Lemonade,"Cold Drinks",1,3.75,
+"2024-02-12 13:27:14",ORD067,"White Mocha","Hot Drinks",1,4.5,out
+"2024-02-12 13:27:14",ORD067,"Cold Coffee","Cold Drinks",1,3.45,
+"2024-02-12 13:30:38",ORD068,"Caramel Macchiato","Hot Drinks",1,4.2,out
+"2024-02-12 13:30:38",ORD068,Lemonade,"Cold Drinks",1,3.75,
+"2024-02-12 13:32:57",ORD069,Mocha,"Hot Drinks",1,4.6,out
+"2024-02-12 13:32:57",ORD069,"Sandwich Salami&Mozzarella",Snacks,1,5.5,
+"2024-02-12 13:35:21",ORD070,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-12 13:35:21",ORD070,"Cold Mocha","Cold Drinks",1,4,
+"2024-02-12 13:55:45",ORD078,"Iced Tea","Cold Drinks",1,3.55,out
+"2024-02-12 14:05:16",ORD079,Lemonade,"Cold Drinks",1,3.35,in
+"2024-02-12 14:17:28",ORD080,Latte,"Hot Drinks",1,3.75,out
+"2024-02-12 14:17:28",ORD080,"Hot Chocolate","Hot Drinks",1,4.2,
+"2024-02-12 14:30:51",ORD081,"Cold Mocha","Cold Drinks",1,4.6,in
+"2024-02-12 14:45:04",ORD082,"Caramel Macchiato","Hot Drinks",1,4.6,in
+"2024-02-12 14:45:04",ORD082,"White Mocha","Hot Drinks",1,4.5,
+"2024-02-12 15:00:29",ORD083,"Hot Chocolate","Hot Drinks",1,4.2,out
+"2024-02-12 15:20:42",ORD084,Mocha,"Hot Drinks",1,4,in
+"2024-02-12 15:20:42",ORD084,Latte,"Hot Drinks",1,3.45,
+"2024-02-12 15:40:08",ORD085,"Hot Chocolate","Hot Drinks",1,4.6,out
+"2024-02-12 15:40:12",ORD085,Lemonade,"Cold Drinks",1,3.75,
+"2024-02-12 16:00:23",ORD086,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-12 16:25:34",ORD087,"Cold Mocha","Cold Drinks",1,4,out
+"2024-02-12 16:50:45",ORD088,"White Mocha","Hot Drinks",1,4.7,out
+"2024-02-12 17:00:45",ORD089,Cappuccino,"Hot Drinks",1,3.45,out
+"2024-02-13 07:14:00",ORD090,Cappuccino,"Hot Drinks",1,3.75,out
+"2024-02-13 07:19:00",ORD091,Latte,"Hot Drinks",1,3.75,in
+"2024-02-13 07:19:00",ORD091,NULL,NULL,1,NULL," "
+"2024-02-13 07:24:00",ORD092,"Cold Mocha","Cold Drinks",1,4,out
+"2024-02-13 07:30:00",ORD093,"Sandwich Ham&Cheese",Snacks,1,5.6,in
+"2024-02-13 07:30:00",ORD093,"White Mocha","Hot Drinks",1,4.5," "
+"2024-02-13 07:35:00",ORD094,"Caramel Macchiato","Hot Drinks",1,4.2,out
+"2024-02-13 07:40:00",ORD095,Lemonade,"Cold Drinks",1,3.35,in
+"2024-02-13 07:45:00",ORD096,"Cold Coffee","Cold Drinks",1,3.45,out
+"2024-02-13 07:50:00",ORD097,Espresso,"Hot Drinks",1,2.15,in
+"2024-02-13 07:50:00",ORD097,"Sandwich Salami&Mozzarella",Snacks,1,5.5," "
+"2024-02-13 07:56:00",ORD098,Cappuccino,"Hot Drinks",1,3.45,out
+"2024-02-13 08:01:00",ORD099,"Iced Tea","Cold Drinks",1,3.25,in
+"2024-02-13 08:06:00",ORD100,Latte,"Hot Drinks",1,3.45,out
+"2024-02-13 08:06:00",ORD100,NULL,NULL,1,NULL," "
+"2024-02-13 08:11:00",ORD101,Lemonade,"Cold Drinks",1,3.75,in
+"2024-02-13 08:17:00",ORD102,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-13 08:22:00",ORD103,"Flat White","Hot Drinks",1,3.15,in
+"2024-02-13 08:22:00",ORD103,"White Mocha","Hot Drinks",1,4.7," "
+"2024-02-13 08:27:00",ORD104,Mocha,"Hot Drinks",1,4.6,out
+"2024-02-13 08:32:00",ORD105,"Caramel Macchiato","Hot Drinks",1,4.6,in
+"2024-02-13 08:38:00",ORD106,NULL,NULL,1,NULL,out
+"2024-02-13 08:38:00",ORD106,"Iced Tea","Cold Drinks",1,3.55," "
+"2024-02-13 08:43:00",ORD107,"Hot Chocolate","Hot Drinks",1,4.6,in
+"2024-02-13 08:48:00",ORD108,Mocha,"Hot Drinks",1,4,out
+"2024-02-13 08:53:00",ORD109,Cappuccino,"Hot Drinks",1,3.75,in
+"2024-02-13 08:53:00",ORD109,"Cold Coffee","Cold Drinks",1,3.75," "
+"2024-02-13 08:58:00",ORD110,"Hot Chocolate","Hot Drinks",1,4.2,out
+"2024-02-13 09:04:00",ORD111,NULL,NULL,1,NULL,in
+"2024-02-13 09:09:00",ORD112,Latte,"Hot Drinks",1,3.75,out
+"2024-02-13 09:14:00",ORD113,Lemonade,"Cold Drinks",1,3.35,in
+"2024-02-13 09:19:00",ORD114,"Caramel Macchiato","Hot Drinks",1,4.2,out
+"2024-02-13 09:25:00",ORD115,"Iced Tea","Cold Drinks",1,3.25,in
+"2024-02-13 09:30:00",ORD116,Latte,"Hot Drinks",1,3.45,out
+"2024-02-13 09:35:00",ORD117,Lemonade,"Cold Drinks",1,3.75,in
+"2024-02-13 09:35:00",ORD117,"White Mocha","Hot Drinks",1,4.7," "
+"2024-02-13 09:40:00",ORD118,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-13 09:46:00",ORD119,"Flat White","Hot Drinks",1,3.15,in
+"2024-02-13 09:51:00",ORD120,NULL,NULL,1,NULL,out
+"2024-02-13 09:56:00",ORD121,"Hot Chocolate","Hot Drinks",1,4.6,in
+"2024-02-13 10:01:00",ORD122,Mocha,"Hot Drinks",1,4,out
+"2024-02-13 10:16:00",ORD123,NULL,NULL,1,NULL,in
+"2024-02-13 10:31:00",ORD124,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-13 10:45:00",ORD125,"Hot Chocolate","Hot Drinks",1,4.6,in
+"2024-02-13 10:45:00",ORD125,"Sandwich Ham&Cheese",Snacks,1,5.6," "
+"2024-02-13 11:00:00",ORD126,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-13 11:15:00",ORD127,Cappuccino,"Hot Drinks",1,3.75,in
+"2024-02-13 11:29:00",ORD128,"White Mocha","Hot Drinks",1,4.5,out
+"2024-02-13 11:43:00",ORD129,NULL,NULL,1,NULL,in
+"2024-02-13 11:43:00",ORD129,"Iced Tea","Cold Drinks",1,3.55," "
+"2024-02-13 11:57:00",ORD130,Espresso,"Hot Drinks",1,2.15,out
+"2024-02-13 12:03:00",ORD131,Lemonade,"Cold Drinks",1,3.75,in
+"2024-02-13 12:10:00",ORD132,Latte,"Hot Drinks",1,3.75,out
+"2024-02-13 12:17:00",ORD133,"Cold Coffee","Cold Drinks",1,3.45,in
+"2024-02-13 12:24:00",ORD134,NULL,NULL,1,NULL,out
+"2024-02-13 12:24:00",ORD134,"Cold Mocha","Cold Drinks",1,4.6," "
+"2024-02-13 12:31:00",ORD135,"Caramel Macchiato","Hot Drinks",1,4.6,in
+"2024-02-13 12:38:00",ORD136,"Iced Tea","Cold Drinks",1,3.55,out
+"2024-02-13 12:45:00",ORD137,Latte,"Hot Drinks",1,3.45,in
+"2024-02-13 12:52:00",ORD138,"Cold Coffee","Cold Drinks",1,3.75,out
+"2024-02-13 12:59:00",ORD139,Mocha,"Hot Drinks",1,4,in
+"2024-02-13 12:59:00",ORD139,NULL,NULL,1,NULL," "
+"2024-02-13 13:06:00",ORD140,"White Mocha","Hot Drinks",1,4.7,out
+"2024-02-13 13:13:00",ORD141,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-13 13:20:00",ORD142,"Iced Tea","Cold Drinks",1,3.25,out
+"2024-02-13 13:27:00",ORD143,"Flat White","Hot Drinks",1,3.15,in
+"2024-02-13 13:27:00",ORD143,"White Mocha","Hot Drinks",1,4.5," "
+"2024-02-13 13:34:00",ORD144,NULL,NULL,1,NULL,out
+"2024-02-13 13:41:00",ORD145,Mocha,"Hot Drinks",1,4.6,in
+"2024-02-13 13:48:00",ORD146,"Sandwich Salami&Mozzarella",Snacks,1,5.5,out
+"2024-02-13 13:55:00",ORD147,"Cold Mocha","Cold Drinks",1,4,in
+"2024-02-13 13:55:00",ORD147,Lemonade,"Cold Drinks",1,3.35," "
+"2024-02-13 14:03:00",ORD148,"Caramel Macchiato","Hot Drinks",1,4.2,out
+"2024-02-13 14:10:00",ORD149,"Sandwich Ham&Cheese",Snacks,1,5.6,in
+"2024-02-13 14:30:00",ORD150,Cappuccino,"Hot Drinks",1,3.75,out
+"2024-02-13 14:50:00",ORD151,"Cold Mocha","Cold Drinks",1,4.6,in
+"2024-02-13 15:10:00",ORD152,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-13 15:30:00",ORD153,NULL,NULL,1,NULL,in
+"2024-02-13 15:50:00",ORD154,"White Mocha","Hot Drinks",1,4.5,out
+"2024-02-13 16:09:00",ORD155,Latte,"Hot Drinks",1,3.75,in
+"2024-02-13 16:09:00",ORD155,NULL,NULL,1,NULL," "
+"2024-02-13 16:29:00",ORD156,"Hot Chocolate","Hot Drinks",1,4.6,out
+"2024-02-13 16:49:00",ORD157,Lemonade,"Cold Drinks",1,3.35,in
+"2024-02-13 17:00:00",ORD158,"Caramel Macchiato","Hot Drinks",1,4.6,out
+"2024-02-14 07:06:00",ORD159,Cappuccino,"Hot Drinks",1,3.45,out
+"2024-02-14 07:13:00",ORD160,"Hot Chocolate","Hot Drinks",1,4.6,in
+"2024-02-14 07:20:00",ORD161,NULL,NULL,1,NULL,out
+"2024-02-14 07:27:00",ORD162,Espresso,"Hot Drinks",1,2.15,in
+"2024-02-14 07:27:00",ORD162,Lemonade,"Cold Drinks",1,3.75," "
+"2024-02-14 07:34:00",ORD163,"Cold Mocha","Cold Drinks",1,4,out
+"2024-02-14 07:41:00",ORD164,"Flat White","Hot Drinks",1,3.15,in
+"2024-02-14 07:49:00",ORD165,"Sandwich Ham&Cheese",Snacks,1,5.6,out
+"2024-02-14 07:56:00",ORD166,"White Mocha","Hot Drinks",1,4.5,in
+"2024-02-14 08:03:00",ORD167,"Iced Tea","Cold Drinks",1,3.25,out
+"2024-02-14 08:10:00",ORD168,Latte,"Hot Drinks",1,3.45,in
+"2024-02-14 08:17:00",ORD169,NULL,NULL,1,NULL,out
+"2024-02-14 08:24:00",ORD170,"Caramel Macchiato","Hot Drinks",1,4.2,in
+"2024-02-14 08:31:00",ORD171,"Iced Tea","Cold Drinks",1,3.55,out
+"2024-02-14 08:38:00",ORD172,Mocha,"Hot Drinks",1,4.6,in
+"2024-02-14 08:45:00",ORD173,NULL,NULL,1,NULL,out
+"2024-02-14 08:45:00",ORD173,"Caramel Macchiato","Hot Drinks",1,4.6," "
+"2024-02-14 08:53:00",ORD174,"Hot Chocolate","Hot Drinks",1,4.2,in
+"2024-02-14 09:00:00",ORD175,NULL,NULL,1,NULL,out
+"2024-02-14 09:07:00",ORD176,Latte,"Hot Drinks",1,3.75,in
+"2024-02-14 09:14:00",ORD177,"Cold Coffee","Cold Drinks",1,3.75,out
+"2024-02-14 09:21:00",ORD178,"Sandwich Salami&Mozzarella",Snacks,1,5.5,in
+"2024-02-14 09:28:00",ORD179,"White Mocha","Hot Drinks",1,4.7,out
+"2024-02-14 09:35:00",ORD180,Mocha,"Hot Drinks",1,4,in
+"2024-02-14 09:42:00",ORD181,Cappuccino,"Hot Drinks",1,3.75,out
+"2024-02-14 09:49:00",ORD182,"Cold Mocha","Cold Drinks",1,4.6,in
+"2024-02-14 09:57:00",ORD183,Lemonade,"Cold Drinks",1,3.35,out
+"2024-02-14 10:04:00",ORD184,"Cold Coffee","Cold Drinks",1,3.45,in
+"2024-02-14 10:21:00",ORD185,"Caramel Macchiato","Hot Drinks",1,4.6,out
+"2024-02-14 10:38:00",ORD186,NULL,NULL,1,NULL,in
+"2024-02-14 10:55:00",ORD187,Cappuccino,"Hot Drinks",1,3.45,out
+"2024-02-14 11:12:00",ORD188,"Sandwich Salami&Mozzarella",Snacks,1,5.5,in
+"2024-02-14 11:29:00",ORD189,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-14 11:29:00",ORD189,Lemonade,"Cold Drinks",1,3.75," "
+"2024-02-14 11:46:00",ORD190,"White Mocha","Hot Drinks",1,4.7,in
+"2024-02-14 12:03:00",ORD191,Latte,"Hot Drinks",1,3.45,out
+"2024-02-14 12:10:00",ORD192,"Cold Coffee","Cold Drinks",1,3.75,in
+"2024-02-14 12:17:00",ORD193,Mocha,"Hot Drinks",1,4,out
+"2024-02-14 12:24:00",ORD194,NULL,NULL,1,NULL,in
+"2024-02-14 12:31:00",ORD195,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-14 12:31:00",ORD195,"White Mocha","Hot Drinks",1,4.5," "
+"2024-02-14 12:38:00",ORD196,"Hot Chocolate","Hot Drinks",1,4.6,in
+"2024-02-14 12:45:00",ORD197,"Iced Tea","Cold Drinks",1,3.55,out
+"2024-02-14 12:52:00",ORD198,"Caramel Macchiato","Hot Drinks",1,4.2,in
+"2024-02-14 13:00:00",ORD199,Lemonade,"Cold Drinks",1,3.75,out
+"2024-02-14 13:08:00",ORD200,"Cold Mocha","Cold Drinks",1,4,in
+"2024-02-14 13:15:00",ORD201,Mocha,"Hot Drinks",1,4.6,out
+"2024-02-14 13:22:00",ORD202,"Sandwich Salami&Mozzarella",Snacks,1,5.5,in
+"2024-02-14 13:22:00",ORD202,Espresso,"Hot Drinks",1,2.15," "
+"2024-02-14 13:29:00",ORD203,Cappuccino,"Hot Drinks",1,3.45,out
+"2024-02-14 13:36:00",ORD204,"Iced Tea","Cold Drinks",1,3.25,in
+"2024-02-14 13:43:00",ORD205,"Hot Chocolate","Hot Drinks",1,4.2,out
+"2024-02-14 13:50:00",ORD206,NULL,NULL,1,NULL,in
+"2024-02-14 13:57:00",ORD207,Latte,"Hot Drinks",1,3.75,out
+"2024-02-14 14:05:00",ORD208,Lemonade,"Cold Drinks",1,3.35,in
+"2024-02-14 14:05:00",ORD208,Cappuccino,"Hot Drinks",1,3.75," "
+"2024-02-14 14:12:00",ORD209,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-14 14:19:00",ORD210,NULL,NULL,1,NULL,in
+"2024-02-14 14:26:00",ORD211,"Caramel Macchiato","Hot Drinks",1,4.6,out
+"2024-02-14 14:33:00",ORD212,"White Mocha","Hot Drinks",1,4.7,in
+"2024-02-14 14:40:00",ORD213,NULL,NULL,1,NULL,out
+"2024-02-14 14:47:00",ORD214,"Cold Coffee","Cold Drinks",1,3.45,in
+"2024-02-14 15:04:00",ORD215,Cappuccino,"Hot Drinks",1,3.75,out
+"2024-02-14 15:22:00",ORD216,"Sandwich Salami&Mozzarella",Snacks,1,5.5,in
+"2024-02-14 15:41:00",ORD217,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-14 15:59:00",ORD218,"White Mocha","Hot Drinks",1,4.5,in
+"2024-02-14 16:17:00",ORD219,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-14 16:35:00",ORD220,"Cold Mocha","Cold Drinks",1,4,in
+"2024-02-14 16:53:00",ORD221,Mocha,"Hot Drinks",1,4,out
+"2024-02-14 17:00:00",ORD222,NULL,NULL,1,NULL,in
+"2024-02-15 07:02:00",ORD223,Latte,"Hot Drinks",1,3.45,out
+"2024-02-15 07:09:00",ORD224,"Cold Mocha","Cold Drinks",1,4,in
+"2024-02-15 07:09:00",ORD224,Lemonade,"Cold Drinks",1,3.35," "
+"2024-02-15 07:16:00",ORD225,"Caramel Macchiato","Hot Drinks",1,4.2,out
+"2024-02-15 07:23:00",ORD226,NULL,NULL,1,NULL,in
+"2024-02-15 07:30:00",ORD227,"White Mocha","Hot Drinks",1,4.5,out
+"2024-02-15 07:30:00",ORD227,"Hot Chocolate","Hot Drinks",1,4.6," "
+"2024-02-15 07:37:00",ORD228,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-15 07:44:00",ORD229,"Iced Tea","Cold Drinks",1,3.25,out
+"2024-02-15 07:52:00",ORD230,"Sandwich Salami&Mozzarella",Snacks,1,5.5,in
+"2024-02-15 07:59:00",ORD231,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-15 07:59:00",ORD231,Espresso,"Hot Drinks",1,2.15," "
+"2024-02-15 08:06:00",ORD232,Mocha,"Hot Drinks",1,4.6,in
+"2024-02-15 08:13:00",ORD233,"Hot Chocolate","Hot Drinks",1,4.2,out
+"2024-02-15 08:20:00",ORD234,"Cold Coffee","Cold Drinks",1,3.75,in
+"2024-02-15 08:20:00",ORD234,Lemonade,"Cold Drinks",1,3.75," "
+"2024-02-15 08:27:00",ORD235,NULL,NULL,1,NULL,out
+"2024-02-15 08:34:00",ORD236,"Caramel Macchiato","Hot Drinks",1,4.6,in
+"2024-02-15 08:41:00",ORD237,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-15 08:48:00",ORD238,Latte,"Hot Drinks",1,3.75,in
+"2024-02-15 08:48:00",ORD238,NULL,NULL,1,NULL," "
+"2024-02-15 08:56:00",ORD239,Mocha,"Hot Drinks",1,4,out
+"2024-02-15 09:03:00",ORD240,Cappuccino,"Hot Drinks",1,3.75,in
+"2024-02-15 09:10:00",ORD241,"Iced Tea","Cold Drinks",1,3.55,out
+"2024-02-15 09:17:00",ORD242,"White Mocha","Hot Drinks",1,4.7,in
+"2024-02-15 09:24:00",ORD243,"Cold Coffee","Cold Drinks",1,3.45,out
+"2024-02-15 09:24:00",ORD243,NULL,NULL,1,NULL," "
+"2024-02-15 09:31:00",ORD244,"Sandwich Ham&Cheese",Snacks,1,5.6,in
+"2024-02-15 09:38:00",ORD245,Espresso,"Hot Drinks",1,2.15,out
+"2024-02-15 09:48:00",ORD246,"White Mocha","Hot Drinks",1,4.7,in
+"2024-02-15 10:04:00",ORD247,Lemonade,"Cold Drinks",1,3.35,out
+"2024-02-15 10:20:00",ORD248,Latte,"Hot Drinks",1,3.75,in
+"2024-02-15 10:36:00",ORD249,NULL,NULL,1,NULL,out
+"2024-02-15 10:52:00",ORD250,Mocha,"Hot Drinks",1,4,in
+"2024-02-15 11:08:00",ORD251,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-15 11:08:00",ORD251,Lemonade,"Cold Drinks",1,3.75," "
+"2024-02-15 11:24:00",ORD252,"Caramel Macchiato","Hot Drinks",1,4.2,in
+"2024-02-15 11:40:00",ORD253,"Cold Coffee","Cold Drinks",1,3.75,out
+"2024-02-15 11:56:00",ORD254,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-15 12:06:00",ORD255,"Caramel Macchiato","Hot Drinks",1,4.6,out
+"2024-02-15 12:12:00",ORD256,"Iced Tea","Cold Drinks",1,3.25,in
+"2024-02-15 12:12:00",ORD256,"Sandwich Ham&Cheese",Snacks,1,5.6," "
+"2024-02-15 12:18:00",ORD257,Cappuccino,"Hot Drinks",1,3.75,out
+"2024-02-15 12:24:00",ORD258,"Cold Coffee","Cold Drinks",1,3.45,in
+"2024-02-15 12:30:00",ORD259,Mocha,"Hot Drinks",1,4.6,out
+"2024-02-15 12:36:00",ORD260,NULL,NULL,1,NULL,in
+"2024-02-15 12:42:00",ORD261,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-15 12:48:00",ORD262,"Hot Chocolate","Hot Drinks",1,4.2,in
+"2024-02-15 12:54:00",ORD263,"Iced Tea","Cold Drinks",1,3.55,out
+"2024-02-15 12:54:00",ORD263,Espresso,"Hot Drinks",1,2.15," "
+"2024-02-15 13:00:00",ORD264,"Sandwich Salami&Mozzarella",Snacks,1,5.5,in
+"2024-02-15 13:06:00",ORD265,"White Mocha","Hot Drinks",1,4.5,out
+"2024-02-15 13:12:00",ORD266,"Cold Mocha","Cold Drinks",1,4,in
+"2024-02-15 13:18:00",ORD267,Latte,"Hot Drinks",1,3.45,out
+"2024-02-15 13:24:00",ORD268,"Hot Chocolate","Hot Drinks",1,4.6,in
+"2024-02-15 13:30:00",ORD269,Cappuccino,"Hot Drinks",1,3.45,out
+"2024-02-15 13:36:00",ORD270,Mocha,"Hot Drinks",1,4,in
+"2024-02-15 13:42:00",ORD271,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-15 13:48:00",ORD272,Latte,"Hot Drinks",1,3.75,in
+"2024-02-15 13:48:00",ORD272,NULL,NULL,1,NULL," "
+"2024-02-15 13:54:00",ORD273,Lemonade,"Cold Drinks",1,3.35,out
+"2024-02-15 14:00:00",ORD274,"Caramel Macchiato","Hot Drinks",1,4.2,in
+"2024-02-15 14:06:00",ORD275,Lemonade,"Cold Drinks",1,3.75,out
+"2024-02-15 14:12:00",ORD276,"White Mocha","Hot Drinks",1,4.7,in
+"2024-02-15 14:18:00",ORD277,NULL,NULL,1,NULL,out
+"2024-02-15 14:24:00",ORD278,"Cold Coffee","Cold Drinks",1,3.75,in
+"2024-02-15 14:30:00",ORD279,NULL,NULL,1,NULL,out
+"2024-02-15 14:36:00",ORD280,Espresso,"Hot Drinks",1,2.15,in
+"2024-02-15 14:52:00",ORD281,Cappuccino,"Hot Drinks",1,3.75,out
+"2024-02-15 15:08:00",ORD282,"Cold Mocha","Cold Drinks",1,4,in
+"2024-02-15 15:24:00",ORD283,"White Mocha","Hot Drinks",1,4.5,out
+"2024-02-15 15:40:00",ORD284,"Sandwich Salami&Mozzarella",Snacks,1,5.5,in
+"2024-02-15 15:56:00",ORD285,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-15 16:12:00",ORD286,"Iced Tea","Cold Drinks",1,3.55,in
+"2024-02-15 16:28:00",ORD287,"Hot Chocolate","Hot Drinks",1,4.6,out
+"2024-02-15 16:44:00",ORD288,NULL,NULL,1,NULL,in
+"2024-02-15 17:00:00",ORD289,Mocha,"Hot Drinks",1,4,out
+"2024-02-16 07:08:00",ORD290,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-16 07:15:00",ORD291,"White Mocha","Hot Drinks",1,4.7,in
+"2024-02-16 07:22:00",ORD292,"Cold Mocha","Cold Drinks",1,4.6," "
+"2024-02-16 07:22:00",ORD292,Lemonade,"Cold Drinks",1,3.75,out
+"2024-02-16 07:29:00",ORD293,Latte,"Hot Drinks",1,3.75,in
+"2024-02-16 07:36:00",ORD294,NULL,NULL,1,NULL,out
+"2024-02-16 07:43:00",ORD295,"White Mocha","Hot Drinks",1,4.5,in
+"2024-02-16 07:51:00",ORD296,"Cold Coffee","Cold Drinks",1,3.45,out
+"2024-02-16 07:58:00",ORD297,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-16 07:58:00",ORD297,"Caramel Macchiato","Hot Drinks",1,4.2," "
+"2024-02-16 08:05:00",ORD298,"Iced Tea","Cold Drinks",1,3.25,out
+"2024-02-16 08:12:00",ORD299,"Sandwich Ham&Cheese",Snacks,1,5.6,in
+"2024-02-16 08:19:00",ORD300,Mocha,"Hot Drinks",1,4,out
+"2024-02-16 08:26:00",ORD301,Latte,"Hot Drinks",1,3.45,in
+"2024-02-16 08:26:00",ORD301,"Iced Tea","Cold Drinks",1,3.55," "
+"2024-02-16 08:33:00",ORD302,"Caramel Macchiato","Hot Drinks",1,4.6,out
+"2024-02-16 08:40:00",ORD303,"Hot Chocolate","Hot Drinks",1,4.2,in
+"2024-02-16 08:48:00",ORD304,NULL,NULL,1,NULL,out
+"2024-02-16 08:55:00",ORD305,Mocha,"Hot Drinks",1,4.6,in
+"2024-02-16 09:02:00",ORD306,Espresso,"Hot Drinks",1,2.15,out
+"2024-02-16 09:09:00",ORD307,Cappuccino,"Hot Drinks",1,3.75,in
+"2024-02-16 09:09:00",ORD307,"Hot Chocolate","Hot Drinks",1,4.6," "
+"2024-02-16 09:16:00",ORD308,"Cold Mocha","Cold Drinks",1,4,out
+"2024-02-16 09:23:00",ORD309,"Sandwich Salami&Mozzarella",Snacks,1,5.5,in
+"2024-02-16 09:30:00",ORD310,Lemonade,"Cold Drinks",1,3.35,out
+"2024-02-16 09:38:00",ORD311,"Cold Coffee","Cold Drinks",1,3.75,in
+"2024-02-16 09:45:00",ORD312,NULL,NULL,1,NULL,out
+"2024-02-16 09:52:00",ORD313,NULL,NULL,1,NULL,in
+"2024-02-16 09:59:00",ORD314,Cappuccino,"Hot Drinks",1,3.45,out
+"2024-02-16 10:05:00",ORD315,Latte,"Hot Drinks",1,3.45,in
+"2024-02-16 10:21:00",ORD316,"Iced Tea","Cold Drinks",1,3.55,out
+"2024-02-16 10:38:00",ORD317,Espresso,"Hot Drinks",1,2.15,in
+"2024-02-16 10:54:00",ORD318,"Cold Mocha","Cold Drinks",1,4,out
+"2024-02-16 10:54:00",ORD318,NULL,NULL,1,NULL," "
+"2024-02-16 11:10:00",ORD319,"White Mocha","Hot Drinks",1,4.7,in
+"2024-02-16 11:26:00",ORD320,"Caramel Macchiato","Hot Drinks",1,4.2,out
+"2024-02-16 11:43:00",ORD321,"Sandwich Salami&Mozzarella",Snacks,1,5.5,in
+"2024-02-16 11:59:00",ORD322,"White Mocha","Hot Drinks",1,4.5,out
+"2024-02-16 12:06:00",ORD323,Lemonade,"Cold Drinks",1,3.75,in
+"2024-02-16 12:12:00",ORD324,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-16 12:19:00",ORD325,Mocha,"Hot Drinks",1,4,in
+"2024-02-16 12:19:00",ORD325,"Hot Chocolate","Hot Drinks",1,4.2," "
+"2024-02-16 12:25:00",ORD326,"Cold Mocha","Cold Drinks",1,4.6,out
+"2024-02-16 12:32:00",ORD327,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-16 12:38:00",ORD328,NULL,NULL,1,NULL,out
+"2024-02-16 12:45:00",ORD329,Latte,"Hot Drinks",1,3.75,in
+"2024-02-16 12:51:00",ORD330,Mocha,"Hot Drinks",1,4.6,out
+"2024-02-16 12:58:00",ORD331,"Cold Mocha","Cold Drinks",1,4,in
+"2024-02-16 12:58:00",ORD331,"Sandwich Ham&Cheese",Snacks,1,5.6," "
+"2024-02-16 13:04:00",ORD332,"Caramel Macchiato","Hot Drinks",1,4.2,out
+"2024-02-16 13:11:00",ORD333,"Hot Chocolate","Hot Drinks",1,4.6,in
+"2024-02-16 13:17:00",ORD334,NULL,NULL,1,NULL,out
+"2024-02-16 13:24:00",ORD335,Espresso,"Hot Drinks",1,2.15,in
+"2024-02-16 13:30:00",ORD336,"Iced Tea","Cold Drinks",1,3.55,out
+"2024-02-16 13:37:00",ORD337,"White Mocha","Hot Drinks",1,4.7,in
+"2024-02-16 13:43:00",ORD338,"Iced Tea","Cold Drinks",1,3.25,out
+"2024-02-16 13:50:00",ORD339,Latte,"Hot Drinks",1,3.45,in
+"2024-02-16 13:56:00",ORD340,"Caramel Macchiato","Hot Drinks",1,4.6,out
+"2024-02-16 14:03:00",ORD341,"Cold Coffee","Cold Drinks",1,3.45,in
+"2024-02-16 14:03:00",ORD341,"Sandwich Salami&Mozzarella",Snacks,1,5.5," "
+"2024-02-16 14:09:00",ORD342,Cappuccino,"Hot Drinks",1,3.75,out
+"2024-02-16 14:16:00",ORD343,Lemonade,"Cold Drinks",1,3.35,in
+"2024-02-16 14:22:00",ORD344,"White Mocha","Hot Drinks",1,4.5,out
+"2024-02-16 14:29:00",ORD345,NULL,NULL,1,NULL,in
+"2024-02-16 14:35:00",ORD346,"Cold Coffee","Cold Drinks",1,3.75,out
+"2024-02-16 14:42:00",ORD347,"Flat White","Hot Drinks",1,3.15,in
+"2024-02-16 14:48:00",ORD348,Lemonade,"Cold Drinks",1,3.75,out
+"2024-02-16 14:55:00",ORD349,Mocha,"Hot Drinks",1,4,in
+"2024-02-16 15:01:00",ORD350,NULL,NULL,1,NULL,out
+"2024-02-16 15:08:00",ORD351,"Cold Mocha","Cold Drinks",1,4.6,in
+"2024-02-16 15:14:00",ORD352,Latte,"Hot Drinks",1,3.45,out
+"2024-02-16 15:21:00",ORD353,"Hot Chocolate","Hot Drinks",1,4.6,in
+"2024-02-16 15:34:00",ORD354,Lemonade,"Cold Drinks",1,3.75,out
+"2024-02-16 15:54:00",ORD355,Mocha,"Hot Drinks",1,4,in
+"2024-02-16 16:14:00",ORD356,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-16 16:34:00",ORD357,"Cold Mocha","Cold Drinks",1,4.6,in
+"2024-02-16 16:54:00",ORD358,Cappuccino,"Hot Drinks",1,3.45,out
+"2024-02-16 17:00:00",ORD359,"Hot Chocolate","Hot Drinks",1,4.6,in
+"2024-02-17 07:03:00",ORD360,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-17 07:08:00",ORD361,"Cold Mocha","Cold Drinks",1,4,out
+"2024-02-17 07:08:00",ORD361,"Sandwich Ham&Cheese",Snacks,1,5.6," "
+"2024-02-17 07:13:00",ORD362,Latte,"Hot Drinks",1,3.75,in
+"2024-02-17 07:18:00",ORD363,NULL,NULL,1,NULL,out
+"2024-02-17 07:18:00",ORD363,"Iced Tea","Cold Drinks",1,3.55," "
+"2024-02-17 07:23:00",ORD364,Mocha,"Hot Drinks",1,4,in
+"2024-02-17 07:28:00",ORD365,"Hot Chocolate","Hot Drinks",1,4.6,out
+"2024-02-17 07:28:00",ORD365,"Caramel Macchiato","Hot Drinks",1,4.6," "
+"2024-02-17 07:34:00",ORD366,Lemonade,"Cold Drinks",1,3.75,in
+"2024-02-17 07:39:00",ORD367,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-17 07:44:00",ORD368,"White Mocha","Hot Drinks",1,4.7,in
+"2024-02-17 07:44:00",ORD368,"Cold Mocha","Cold Drinks",1,4.6," "
+"2024-02-17 07:49:00",ORD369,NULL,NULL,1,NULL,out
+"2024-02-17 07:54:00",ORD370,Latte,"Hot Drinks",1,3.45,in
+"2024-02-17 07:59:00",ORD371,"Cold Coffee","Cold Drinks",1,3.75,out
+"2024-02-17 07:59:00",ORD371,Espresso,"Hot Drinks",1,2.15," "
+"2024-02-17 08:04:00",ORD372,"White Mocha","Hot Drinks",1,4.5,in
+"2024-02-17 08:10:00",ORD373,"Sandwich Salami&Mozzarella",Snacks,1,5.5,out
+"2024-02-17 08:15:00",ORD374,"Caramel Macchiato","Hot Drinks",1,4.2,in
+"2024-02-17 08:15:00",ORD374,Lemonade,"Cold Drinks",1,3.35," "
+"2024-02-17 08:20:00",ORD375,Mocha,"Hot Drinks",1,4.6,out
+"2024-02-17 08:25:00",ORD376,NULL,NULL,1,NULL,in
+"2024-02-17 08:30:00",ORD377,"Hot Chocolate","Hot Drinks",1,4.2,out
+"2024-02-17 08:30:00",ORD377,"Iced Tea","Cold Drinks",1,3.25," "
+"2024-02-17 08:35:00",ORD378,Cappuccino,"Hot Drinks",1,3.75,in
+"2024-02-17 08:40:00",ORD379,NULL,NULL,1,NULL,out
+"2024-02-17 08:45:00",ORD380,"Cold Coffee","Cold Drinks",1,3.45,in
+"2024-02-17 08:51:00",ORD381,"Caramel Macchiato","Hot Drinks",1,4.6,out
+"2024-02-17 08:51:00",ORD381,"Sandwich Ham&Cheese",Snacks,1,5.6," "
+"2024-02-17 08:56:00",ORD382,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-17 09:01:00",ORD383,"Cold Mocha","Cold Drinks",1,4,out
+"2024-02-17 09:06:00",ORD384,Latte,"Hot Drinks",1,3.75,in
+"2024-02-17 09:06:00",ORD384,"Iced Tea","Cold Drinks",1,3.55," "
+"2024-02-17 09:11:00",ORD385,Mocha,"Hot Drinks",1,4,out
+"2024-02-17 09:16:00",ORD386,NULL,NULL,1,NULL,in
+"2024-02-17 09:21:00",ORD387,"White Mocha","Hot Drinks",1,4.7,out
+"2024-02-17 09:27:00",ORD388,"Cold Mocha","Cold Drinks",1,4.6,in
+"2024-02-17 09:27:00",ORD388,Lemonade,"Cold Drinks",1,3.75," "
+"2024-02-17 09:32:00",ORD389,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-17 09:37:00",ORD390,"White Mocha","Hot Drinks",1,4.5,in
+"2024-02-17 09:42:00",ORD391,NULL,NULL,1,NULL,out
+"2024-02-17 09:47:00",ORD392,Latte,"Hot Drinks",1,3.45,in
+"2024-02-17 09:52:00",ORD393,"Cold Coffee","Cold Drinks",1,3.75,out
+"2024-02-17 09:52:00",ORD393,"Sandwich Salami&Mozzarella",Snacks,1,5.5," "
+"2024-02-17 09:57:00",ORD394,Espresso,"Hot Drinks",1,2.15,in
+"2024-02-17 10:08:00",ORD394,"Cold Coffee","Cold Drinks",1,3.75," "
+"2024-02-17 10:24:00",ORD395,"Sandwich Salami&Mozzarella",Snacks,1,5.5,in
+"2024-02-17 10:24:00",ORD395,Espresso,"Hot Drinks",1,2.15," "
+"2024-02-17 10:40:00",ORD396,Cappuccino,"Hot Drinks",1,3.75,out
+"2024-02-17 10:56:00",ORD397,Mocha,"Hot Drinks",1,4.6,in
+"2024-02-17 11:12:00",ORD398,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-17 11:28:00",ORD399,NULL,NULL,1,NULL,in
+"2024-02-17 11:44:00",ORD400,"Hot Chocolate","Hot Drinks",1,4.2,out
+"2024-02-17 12:00:00",ORD401,Lemonade,"Cold Drinks",1,3.35,in
+"2024-02-17 12:16:00",ORD402,"Cold Mocha","Cold Drinks",1,4,out
+"2024-02-17 12:00:00",ORD403,Lemonade,"Cold Drinks",1,3.75,in
+"2024-02-17 12:07:00",ORD404,Latte,"Hot Drinks",1,3.75,out
+"2024-02-17 12:07:00",ORD404,"Caramel Macchiato","Hot Drinks",1,4.2," "
+"2024-02-17 12:14:00",ORD405,"Cold Mocha","Cold Drinks",1,4.6,in
+"2024-02-17 12:21:00",ORD406,"White Mocha","Hot Drinks",1,4.5,out
+"2024-02-17 12:28:00",ORD407,"Sandwich Ham&Cheese",Snacks,1,5.6,in
+"2024-02-17 12:28:00",ORD407,NULL,NULL,1,NULL," "
+"2024-02-17 12:35:00",ORD408,Mocha,"Hot Drinks",1,4,out
+"2024-02-17 12:42:00",ORD409,"Cold Coffee","Cold Drinks",1,3.45,in
+"2024-02-17 12:49:00",ORD410,NULL,NULL,1,NULL,out
+"2024-02-17 12:56:00",ORD411,Latte,"Hot Drinks",1,3.45,in
+"2024-02-17 13:03:00",ORD412,"Iced Tea","Cold Drinks",1,3.55,out
+"2024-02-17 13:03:00",ORD412,"Hot Chocolate","Hot Drinks",1,4.6," "
+"2024-02-17 13:10:00",ORD413,Cappuccino,"Hot Drinks",1,3.45,in
+"2024-02-17 13:17:00",ORD414,Espresso,"Hot Drinks",1,2.15,out
+"2024-02-17 13:24:00",ORD415,"Cold Mocha","Cold Drinks",1,4,in
+"2024-02-17 13:31:00",ORD416,"Flat White","Hot Drinks",1,3.15,out
+"2024-02-17 13:38:00",ORD417,"White Mocha","Hot Drinks",1,4.7,in
+"2024-02-17 13:38:00",ORD417,"Sandwich Salami&Mozzarella",Snacks,1,5.5," "
+"2024-02-17 13:45:00",ORD418,Mocha,"Hot Drinks",1,4.6,out
+"2024-02-17 13:52:00",ORD419,NULL,NULL,1,NULL,in
+"2024-02-17 13:59:00",ORD420,"Iced Tea","Cold Drinks",1,3.25,out
+"2024-02-17 14:06:00",ORD421,"Caramel Macchiato","Hot Drinks",1,4.6,in
+"2024-02-17 14:13:00",ORD422,Cappuccino,"Hot Drinks",1,3.75,out
+"2024-02-17 14:20:00",ORD423,"Hot Chocolate","Hot Drinks",1,4.2,in
+"2024-02-17 14:27:00",ORD424,Lemonade,"Cold Drinks",1,3.35,out
+"2024-02-17 14:27:00",ORD424,"Cold Coffee","Cold Drinks",1,3.75," "
+"2024-02-17 14:34:00",ORD425,NULL,NULL,1,NULL,in
+"2024-02-17 14:41:00",ORD426,Mocha,"Hot Drinks",1,4,out
+"2024-02-17 14:48:00",ORD427,"Caramel Macchiato","Hot Drinks",1,4.2,in
+"2024-02-17 14:55:00",ORD428,"Sandwich Ham&Cheese",Snacks,1,5.6,out
+"2024-02-17 15:02:00",ORD429,"Cold Mocha","Cold Drinks",1,4.6,in
+"2024-02-17 15:02:00",ORD429,"White Mocha","Hot Drinks",1,4.5," "
+"2024-02-17 15:23:00",ORD430,"Cold Coffee","Cold Drinks",1,3.45,out
+"2024-02-17 15:39:00",ORD431,NULL,NULL,1,NULL,in
+"2024-02-17 15:55:00",ORD432,Mocha,"Hot Drinks",1,4,out
+"2024-02-17 16:11:00",ORD433,"Sandwich Ham&Cheese",Snacks,1,5.6,in
+"2024-02-17 16:27:00",ORD434,"Caramel Macchiato","Hot Drinks",1,4.2,out
+"2024-02-17 16:43:00",ORD435,"Cold Mocha","Cold Drinks",1,4.6,in
+"2024-02-17 16:59:00",ORD436,Cappuccino,"Hot Drinks",1,3.75,out
+"2024-02-17 17:00:00",ORD437,NULL,NULL,1,NULL,in

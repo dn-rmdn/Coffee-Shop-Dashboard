@@ -1,0 +1,18 @@
+ing_id,ing_name,ordered_weight,total_inv_weight
+ING001,"Espresso beans",2834,4000
+ING005,"Whipped cream",1270,2100
+ING013,Chocolate,920,2000
+ING012,"Cocoa powder",1095,5000
+ING002,"Whole Milk",49940,55000
+ING010,Sugar,2235,4000
+ING017,"Black Tea",150,2000
+ING004,Mozzarella,380,2000
+ING016,Salami,1265,2000
+ING011,"Panini Bread",35,80
+ING009,"Barista caramel sauce",910,1000
+ING007,"Barista chocolate syrup",2120,3000
+ING003,Cheddar,320,500
+ING015,Ham,800,3000
+ING008,"Barista white chocolate syrup",1060,4000
+ING014,Lemons,40,50
+NULL,NULL,NULL,NULL

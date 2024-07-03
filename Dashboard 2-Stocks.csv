@@ -1,0 +1,63 @@
+item_id,item_name,item_size,ing_id,ing_name,ing_weight,ing_price,order_quantity,recipe_quantity,ordered_weight,unit_cost,ingredient_cost
+It008,Espresso,N/A,ING001,"Espresso beans",1000,12,19,8,152,0.012,1.824
+It014,"Hot Chocolate",Large,ING005,"Whipped cream",300,1.35,22,40,880,0.0045000000000000005,3.9600000000000004
+It014,"Hot Chocolate",Large,ING013,Chocolate,1000,10.5,22,30,660,0.0105,6.930000000000001
+It014,"Hot Chocolate",Large,ING012,"Cocoa powder",1000,22,22,35,770,0.022,16.939999999999998
+It014,"Hot Chocolate",Large,ING002,"Whole Milk",1000,1.2,22,180,3960,0.0012,4.752
+It019,"Iced Tea",Medium,ING010,Sugar,1000,1.5,15,20,300,0.0015,0.45
+It019,"Iced Tea",Medium,ING017,"Black Tea",1000,16,15,10,150,0.016,2.4
+It024,"Sandwich Salami&Mozzarella",N/A,ING004,Mozzarella,500,5,19,20,380,0.01,3.8000000000000003
+It024,"Sandwich Salami&Mozzarella",N/A,ING016,Salami,1000,15.49,19,50,950,0.01549,14.7155
+It024,"Sandwich Salami&Mozzarella",N/A,ING011,"Panini Bread",4,1.35,19,1,19,0.3375,6.4125000000000005
+It001,Cappuccino,Medium,ING002,"Whole Milk",1000,1.2,21,130,2730,0.0012,3.276
+It001,Cappuccino,Medium,ING001,"Espresso beans",1000,12,21,8,168,0.012,2.016
+It016,"Cold Coffee",Large,ING002,"Whole Milk",1000,1.2,18,180,3240,0.0012,3.8879999999999995
+It016,"Cold Coffee",Large,ING001,"Espresso beans",1000,12,18,10,180,0.012,2.16
+It005,"Flat White",N/A,ING002,"Whole Milk",1000,1.2,27,160,4320,0.0012,5.183999999999999
+It005,"Flat White",N/A,ING001,"Espresso beans",1000,12,27,8,216,0.012,2.592
+It020,"Iced Tea",Large,ING010,Sugar,1000,1.5,21,25,525,0.0015,0.7875
+It020,"Iced Tea",Large,ING016,Salami,1000,15.49,21,15,315,0.01549,4.8793500000000005
+It006,"Caramel Macchiato",Medium,ING009,"Barista caramel sauce",1000,8.49,20,20,400,0.008490000000000001,3.3960000000000004
+It006,"Caramel Macchiato",Medium,ING002,"Whole Milk",1000,1.2,20,120,2400,0.0012,2.88
+It006,"Caramel Macchiato",Medium,ING001,"Espresso beans",1000,12,20,8,160,0.012,1.92
+It018,"Cold Mocha",Large,ING007,"Barista chocolate syrup",1000,8.49,27,30,810,0.008490000000000001,6.876900000000001
+It018,"Cold Mocha",Large,ING002,"Whole Milk",1000,1.2,27,160,4320,0.0012,5.183999999999999
+It018,"Cold Mocha",Large,ING001,"Espresso beans",1000,12,27,10,270,0.012,3.24
+It023,"Sandwich Ham&Cheese",N/A,ING003,Cheddar,500,7.45,16,20,320,0.0149,4.768
+It023,"Sandwich Ham&Cheese",N/A,ING015,Ham,1000,27.5,16,50,800,0.0275,22
+It023,"Sandwich Ham&Cheese",N/A,ING011,"Panini Bread",4,1.35,16,1,16,0.3375,5.4
+It011,"White Mocha",Medium,ING008,"Barista white chocolate syrup",1000,8.49,23,20,460,0.008490000000000001,3.9054000000000006
+It011,"White Mocha",Medium,ING002,"Whole Milk",1000,1.2,23,120,2760,0.0012,3.312
+It011,"White Mocha",Medium,ING001,"Espresso beans",1000,12,23,8,184,0.012,2.208
+It003,Latte,Medium,ING002,"Whole Milk",1000,1.2,19,130,2470,0.0012,2.9639999999999995
+It003,Latte,Medium,ING001,"Espresso beans",1000,12,19,8,152,0.012,1.824
+It007,"Caramel Macchiato",Large,ING009,"Barista caramel sauce",1000,8.49,17,30,510,0.008490000000000001,4.3299
+It007,"Caramel Macchiato",Large,ING002,"Whole Milk",1000,1.2,17,160,2720,0.0012,3.264
+It007,"Caramel Macchiato",Large,ING001,"Espresso beans",1000,12,17,10,170,0.012,2.04
+It009,Mocha,Medium,ING007,"Barista chocolate syrup",1000,8.49,26,20,520,0.008490000000000001,4.4148000000000005
+It009,Mocha,Medium,ING002,"Whole Milk",1000,1.2,26,120,3120,0.0012,3.7439999999999998
+It009,Mocha,Medium,ING001,"Espresso beans",1000,12,26,8,208,0.012,2.496
+It021,Lemonade,Medium,ING010,Sugar,1000,1.5,19,30,570,0.0015,0.855
+It021,Lemonade,Medium,ING014,Lemons,5,1.5,19,1,19,0.3,5.7
+It012,"White Mocha",Large,ING008,"Barista white chocolate syrup",1000,8.49,20,30,600,0.008490000000000001,5.094
+It012,"White Mocha",Large,ING002,"Whole Milk",1000,1.2,20,160,3200,0.0012,3.84
+It012,"White Mocha",Large,ING001,"Espresso beans",1000,12,20,10,200,0.012,2.4
+It022,Lemonade,Large,ING010,Sugar,1000,1.5,21,40,840,0.0015,1.26
+It022,Lemonade,Large,ING014,Lemons,5,1.5,21,1,21,0.3,6.3
+It004,Latte,Large,ING002,"Whole Milk",1000,1.2,19,180,3420,0.0012,4.103999999999999
+It004,Latte,Large,ING001,"Espresso beans",1000,12,19,10,190,0.012,2.2800000000000002
+It002,Cappuccino,Large,ING002,"Whole Milk",1000,1.2,19,180,3420,0.0012,4.103999999999999
+It002,Cappuccino,Large,ING001,"Espresso beans",1000,12,19,10,190,0.012,2.2800000000000002
+It017,"Cold Mocha",Medium,ING007,"Barista chocolate syrup",1000,8.49,20,20,400,0.008490000000000001,3.3960000000000004
+It017,"Cold Mocha",Medium,ING002,"Whole Milk",1000,1.2,20,120,2400,0.0012,2.88
+It017,"Cold Mocha",Medium,ING001,"Espresso beans",1000,12,20,8,160,0.012,1.92
+It010,Mocha,Large,ING007,"Barista chocolate syrup",1000,8.49,13,30,390,0.008490000000000001,3.3111000000000006
+It010,Mocha,Large,ING002,"Whole Milk",1000,1.2,13,160,2080,0.0012,2.496
+It010,Mocha,Large,ING001,"Espresso beans",1000,12,13,10,130,0.012,1.56
+It015,"Cold Coffee",Medium,ING002,"Whole Milk",1000,1.2,13,130,1690,0.0012,2.028
+It015,"Cold Coffee",Medium,ING001,"Espresso beans",1000,12,13,8,104,0.012,1.248
+It013,"Hot Chocolate",Medium,ING005,"Whipped cream",300,1.35,13,30,390,0.0045000000000000005,1.7550000000000001
+It013,"Hot Chocolate",Medium,ING013,Chocolate,1000,10.5,13,20,260,0.0105,2.73
+It013,"Hot Chocolate",Medium,ING012,"Cocoa powder",1000,22,13,25,325,0.022,7.1499999999999995
+It013,"Hot Chocolate",Medium,ING002,"Whole Milk",1000,1.2,13,130,1690,0.0012,2.028
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,54,NULL,NULL,NULL,NULL
